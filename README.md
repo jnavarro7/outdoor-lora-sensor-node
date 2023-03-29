@@ -25,11 +25,10 @@ Cypress PSoC 4
 Atmega32u4
 Atmega328
 
-![alt tag](/pictures/top.jpg)
+![alt tag](/pictures/top.jpeg)
 
-![alt tag](/pictures/bottom.jpg)
+![alt tag](/pictures/bottom.jpeg)
 
-![alt tag](/pictures/assembly.jpg)
+![alt tag](/pictures/assembly.jpeg)
 
-![alt tag](/pictures/assembly.gif)
-
+![](/pictures/aseembly.gif)
