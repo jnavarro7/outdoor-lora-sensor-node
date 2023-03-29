@@ -25,10 +25,20 @@ Cypress PSoC 4
 Atmega32u4
 Atmega328
 
+## Pictures
+
+### Assembly with enclosure sim
+
+![](/pictures/aseembly.gif)
+
+### Top
+
 ![alt tag](/pictures/top.jpeg)
+
+### Bottom
 
 ![alt tag](/pictures/bottom.jpeg)
 
-![alt tag](/pictures/assembly.jpeg)
+### Assembly picture
 
-![](/pictures/aseembly.gif)
+![alt tag](/pictures/assembly.jpeg)
