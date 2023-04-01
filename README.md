@@ -29,16 +29,22 @@ Atmega328
 
 ### Assembly with enclosure sim
 
-![](/pictures/aseembly.gif)
+![](pictures/aseembly.gif)
 
 ### Top
 
-![alt tag](/pictures/top.jpeg)
+![Top](pictures/top.jpeg)
 
 ### Bottom
 
-![alt tag](/pictures/bottom.jpeg)
+![Bottom](pictures/bottom.jpeg)
 
 ### Assembly picture
 
-![alt tag](/pictures/assembly.jpeg)
+![Assembly](pictures/assembly.jpeg)
+
+
+## License
+
+Released under the Creative Commons Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
