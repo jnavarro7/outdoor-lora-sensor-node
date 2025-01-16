@@ -39,10 +39,17 @@ Atmega328
 
 ![Bottom](pictures/bottom.jpeg)
 
-### Assembly picture
+### Assembly pictures
 
 ![Assembly](pictures/assembly.jpeg)
 
+![Assembly1](pictures/outdoor_lora_sensor_node%20v4-1.jpg)
+
+![Assembly2](pictures/outdoor_lora_sensor_node%20v4-2.jpg)
+
+![Assembly3](pictures/outdoor_lora_sensor_node%20v4-3.jpg)
+
+![Assembly4](pictures/outdoor_lora_sensor_node%20v4-4.jpg)
 
 ## License
 
